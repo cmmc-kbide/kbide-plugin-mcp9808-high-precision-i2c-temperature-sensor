@@ -3,15 +3,15 @@
   "title": "mcp9808-high-precision-i2c-temperature-sensor",
   "keywords": "mcp9808-high-precision-i2c-temperature-sensor, esp32, esp8266, arduino",
   "description": "mcp9808-high-precision-i2c-temperature-sensor plugin for KB-IDE",
-  "category":"",
+  "category":"Sensors",
   "git": "https://github.com/cmmc-kbide/kbide-plugin-mcp9808-high-precision-i2c-temperature-sensor/",
-  "author": "cmmakerclub",
+  "author": "er9xto",
   "email": "",
   "url": "https://github.com/cmmc-kbide/kbide-plugin-mcp9808-high-precision-i2c-temperature-sensor/",
   "version": "1.0.0",
   "board" : "",
   "platform": ["arduino-esp32"],
-  "license": "",
+  "license": "https://github.com/adafruit/Adafruit_MCP9808_Library",
   "image" : "/static/display.png",
   "homepage": "http://www.kbide.org"
 }
